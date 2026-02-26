@@ -1,4 +1,4 @@
-#Simple-Name-System
+# Simple-Name-System
 Sviluppo di un semplice sistema di nomi.
 
 ==== COMPONENTI ====
