@@ -8,9 +8,9 @@ Progetto di un semplice Sistema di Nomi.
 
 ==== ISTRUZIONI ====
  - Compilazione dalla cartella src:
- 	$ javac -cp . server/DiscoveryServer.java server/RowSwapServer.java client/Client.java
+ 	- $ javac -cp . server/DiscoveryServer.java server/RowSwapServer.java client/Client.java
 
  - Esecuzione dalla cartella src:
-	$ java -cp . server/DiscoveryServer requestPortClient registerPortRowSwapServer
-	$ java -cp . server/RowSwapServer IPAddressDiscoveryServer portDiscoveryServer localPortRowSwapServer fileName
-	$ java -cp . client/Client IPAddressDiscoveryServer portDiscoveryServer
+	- $ java -cp . server/DiscoveryServer requestPortClient registerPortRowSwapServer
+	- $ java -cp . server/RowSwapServer IPAddressDiscoveryServer portDiscoveryServer localPortRowSwapServer fileName
+	- $ java -cp . client/Client IPAddressDiscoveryServer portDiscoveryServer
