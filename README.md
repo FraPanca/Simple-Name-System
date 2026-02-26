@@ -1,5 +1,5 @@
 # Simple-Name-System
-Sviluppo di un semplice sistema di nomi.
+Sviluppo di un semplice Sistema di Nomi.
 
 ==== COMPONENTI ====
  - il DiscoveryServer funge da Naming Server.
